@@ -4,10 +4,13 @@ body {
 }
 h1   {
  color: #FFFF00;
+ text-align:center;
 }
 p    {
  color: #FFFF00;
+  text-align:center;
 }
+
 img{
 image-align:center
 
