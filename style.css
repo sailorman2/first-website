@@ -12,6 +12,9 @@ p    {
 }
 
 img{
-image-align:center
+margin-left:auto;
+ margin-right:auto;
+ border-radius:20px;
+ padding-top:0px;
 
 }
